@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0027-remove-element) |
 | [0347-top-k-frequent-elements](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yakshitha-16/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yakshitha-16/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/yakshitha-16/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yakshitha-16/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
