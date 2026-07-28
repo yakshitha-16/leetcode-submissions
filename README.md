@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yakshitha-16/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
