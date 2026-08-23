@@ -1,10 +1,10 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        unordered_set<char> st ; 
       int maxc = 0 ;
       int left = 0 ;
 
-      unordered_set<char> st ; 
 
       for(int right = 0 ; right<s.size() ; right++){
 
