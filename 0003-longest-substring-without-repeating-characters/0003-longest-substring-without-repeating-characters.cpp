@@ -4,8 +4,6 @@ public:
         unordered_set<char> st ; 
       int maxc = 0 ;
       int left = 0 ;
-
-
       for(int right = 0 ; right<s.size() ; right++){
 
             while(st.find(s[right]) != st.end()){
@@ -16,7 +14,6 @@ public:
             st.insert(s[right]);
             maxc = max(maxc , right-left+1);
       }
-
       return maxc ;
     }
 };
