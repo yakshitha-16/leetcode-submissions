@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yakshitha-16/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
