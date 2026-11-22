@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0344-reverse-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yakshitha-16/leetcode-submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Divide and Conquer
 |  |
 | ------- |
