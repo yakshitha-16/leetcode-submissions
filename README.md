@@ -180,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
