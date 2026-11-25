@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -182,9 +184,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
