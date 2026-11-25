@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -186,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
