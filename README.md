@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3360-stone-removal-game](https://github.com/yakshitha-16/leetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/yakshitha-16/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yakshitha-16/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/yakshitha-16/leetcode-submissions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
